@@ -1,3 +1,5 @@
 .vscode/
 mnist_train/MNIST_Dataset_JPG/
 esp32_deploy/mnist_esp32/build/
+ece594_g3/
+data/
